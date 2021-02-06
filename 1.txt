@@ -1,0 +1,10 @@
+1. git init
+2. git status
+3. touch nazwa_pliku.format - tworzy plik
+4. ls - wyswietlic zawartosc katalogu
+5. git status
+6. git add nazwa_pliku.format
+7. jesli chcemy dodac plik do repo - git commit -m"Komentarz 1"
+8. git log - historia commitów
+9. git add -A doda wszystkie untracked files
+10. git commit -m "komentarz 2" 
